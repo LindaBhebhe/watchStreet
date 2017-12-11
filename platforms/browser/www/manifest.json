@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "watchMe",
+  "short_name": "watchMe",
+  "version": "watchMeApp",
+  "description": "An application to report on illegal or unlawful behaviour to the authorities.",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
