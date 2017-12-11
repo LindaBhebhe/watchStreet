@@ -152,7 +152,4 @@ function registerAsUser(){
 		}
 
 
-function upload(){
-	alert("successfully uploaded");
-}
 
