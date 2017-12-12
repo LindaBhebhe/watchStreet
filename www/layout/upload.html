@@ -8,6 +8,8 @@
 
 <body>
     <script type="text/javascript" src="../js/myscript.js"></script>  
+    <script type="text/javascript" src="../js/plugins.js"></script> 
+
 	<div class="container">
 	    <form id="contact">
 		 <h1>WatchMe Reporter</h1>
@@ -27,12 +29,13 @@
 	           </textarea> 
 	           </fieldset>
 		
-		<button name="login" type="button" id="loginSubmit" ">Send to authorities</button>
+		<button name="login" type="button" id="loginSubmit" onclick="sendReport()">Send to authorities</button>
+		<button name= "sign out"><a href="../login/index.html">Logout</a></li>	
 		</form>
 	
 	</div>
 
-    <script type="text/javascript" src="../js/plugins.js"></script> 
+    
 </body>
 </html>
 
